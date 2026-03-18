@@ -1,0 +1,15 @@
+PomoTick	            KEYWORD1
+PomoTickState	        KEYWORD1
+startSession	        KEYWORD2
+stopSession	            KEYWORD2
+pauseSession	        KEYWORD2
+resumeSession	        KEYWORD2
+run	                    KEYWORD2
+getCurrentState	        KEYWORD2
+getRemainingTime	    KEYWORD2
+getCompletedSessions	KEYWORD2
+INACTIVE	            LITERAL1
+WORK	                LITERAL1
+SHORT_BREAK	            LITERAL1
+LONG_BREAK	            LITERAL1
+PAUSED	                LITERAL1

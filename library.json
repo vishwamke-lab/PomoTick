@@ -1,0 +1,21 @@
+{
+  "name": "PomoTick",
+  "version": "1.0.0",
+  "description": "A lightweight Pomodoro timer library for Arduino. Manages work sessions, short breaks, and long breaks following the Pomodoro technique. Runs entirely from loop(), fires a callback on every state change, and supports pause, resume, and stop.",
+  "keywords": "pomodoro, timer, productivity, time management",
+  "authors": [
+    {
+      "name": "vishwamke-lab",
+      "url": "https://github.com/vishwamke-lab",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishwamke-lab/PomoTick"
+  },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "PomoTick.h"
+}
